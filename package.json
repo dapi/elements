@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "parcel index.html",
     "build": "parcel build index.html",
-    "deploy": "yarn parcel build index.html --public-url ./dist && yarn gh-pages -d ./dist"
+    "deploy": "yarn parcel build index.html --public-url . && yarn gh-pages -d ./dist"
   },
   "devDependencies": {
     "gh-pages": "^2.1.1",
