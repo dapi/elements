@@ -2,12 +2,12 @@
 
 ## Installation and usage
 
-```HTML
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <script defer href="https://dapi.github.io/elements/spinner.js"/>
-    <link rel="stylesheet" href="https://dapi.github.io/elements/spinner.css">
+    <script defer href="https://dapi.github.io/elements/spinner.js" />
+    <link rel="stylesheet" href="https://dapi.github.io/elements/spinner.css" />
   </head>
   <body>
     <dapi-spinner></dapi-spinner>
