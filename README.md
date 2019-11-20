@@ -1,2 +1,5 @@
-# elements
-Minimalistic usable Custom Elements with no dependency
+# Minimalistic usable Custom Elements with no dependency
+
+Development:
+
+> yarn dev
