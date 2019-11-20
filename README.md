@@ -1,4 +1,4 @@
-# Minimalistic usable Custom Elements with no dependency
+# Tiny Custom Elements with no dependency
 
 Development:
 
