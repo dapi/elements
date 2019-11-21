@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <script defer href="https://dapi.github.io/elements/spinner.js" />
+    <script defer href="https://cdn.jsdelivr.net/gh/dapi/elements@master/spinner.js"></script>
   </head>
   <body>
     <dapi-spinner></dapi-spinner>
