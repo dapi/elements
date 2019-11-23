@@ -1,22 +1,18 @@
 # Tiny Custom Elements with no dependency
 
-## Installation and usage
+## Installation
 
 ```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <script defer href="https://cdn.jsdelivr.net/gh/dapi/elements@master/spinner.js"></script>
-  </head>
-  <body>
-    <dapi-spinner></dapi-spinner>
-  </body>
-</html>
+<script defer href="https://cdn.jsdelivr.net/gh/dapi/elements@master/spinner.js"></script>
 ```
 
-## Demo
+## Usage
 
-* https://dapi.github.io/elements/
+```html
+<dapi-spinner></dapi-spinner>
+```
+
+More demos and examples - https://dapi.github.io/elements/
 
 ## Development
 
