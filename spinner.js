@@ -1,4 +1,5 @@
-// More spinner styles - https://tobiasahlin.com/spinkit/
+// goga https://github.com/dapi/elements/blob/master/spinner.js
+// More spinners - https://tobiasahlin.com/spinkit/
 
 let tmpl = document.createElement('template');
 tmpl.innerHTML = `
