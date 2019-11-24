@@ -1,4 +1,3 @@
-// goga https://github.com/dapi/elements/blob/master/spinner.js
 // More spinners - https://tobiasahlin.com/spinkit/
 
 let tmpl = document.createElement('template');
