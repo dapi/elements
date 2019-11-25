@@ -1,6 +1,7 @@
-// More spinners - https://tobiasahlin.com/spinkit/
 
 let tmpl = document.createElement('template');
+
+// More spinner styles - https://tobiasahlin.com/spinkit/
 tmpl.innerHTML = `
 <style>
 :host {
