@@ -45,3 +45,4 @@ customElements.define('dapi-spinner', class extends HTMLElement {
     shadowRoot.appendChild(tmpl.content.cloneNode(true));
   }
 } )
+
