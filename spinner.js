@@ -1,4 +1,8 @@
 
+/*
+ * Copyright © 2019 Danil Pismenny <danil@brandymint.ru>
+ */
+
 let tmpl = document.createElement('template');
 
 // More spinner styles - https://tobiasahlin.com/spinkit/
