@@ -1,7 +1,7 @@
 
 /*
- * Copyright © 2019 Danil Pismenny <danil@brandymint.ru>
- */
+* Copyright © 2019 Danil Pismenny <danil@brandymint.ru>
+*/
 
 let tmpl = document.createElement('template');
 
